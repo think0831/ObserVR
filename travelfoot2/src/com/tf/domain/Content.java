@@ -5,7 +5,7 @@ import java.io.Serializable;
 public class Content implements Serializable {
 	int no;
 	int pinpointNo;
-	String contente;
+	String content;
 	
 	public int getNo() {
 		return no;
